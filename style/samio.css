@@ -1,7 +1,7 @@
 *{
     margin: 0;padding: 0;
 }
-div{
+.s1{
     background-color: aquamarine;
     color: red;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -10,4 +10,9 @@ div{
     font-size: larger;
     height: 500px;
     width: 700px;
+}
+
+.img img{
+    height: 150px;
+    width: 150px;
 }
