@@ -1,0 +1,13 @@
+*{
+    margin: 0;padding: 0;
+}
+div{
+    background-color: aquamarine;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+    font-size: larger;
+    height: 500px;
+    width: 700px;
+}
